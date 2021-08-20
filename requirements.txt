@@ -1,5 +1,8 @@
-bqplot
-ipympl
-ipyvolume
-scipy
+pandas
+numpy
+seaborn
+matplotlib
+ipywidgets
+math
+sklearn
 voila
