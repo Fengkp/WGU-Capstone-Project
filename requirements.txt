@@ -1,8 +1,2 @@
-pandas
-numpy
-seaborn
-matplotlib
-ipywidgets
-math
-sklearn
+
 voila
